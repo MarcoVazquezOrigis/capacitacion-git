@@ -1,4 +1,4 @@
 <?php
 echo "Este es la clase de empleados";
-echo "Soy un empleado de muestra editado";
+echo "Soy un empleado de muestra editado desde la master";
 ?>
